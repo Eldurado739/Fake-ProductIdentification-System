@@ -24,5 +24,5 @@ Our vision is to create a world where consumers and businesses can easily verify
 - **Integration with IoT:** Connect with IoT devices for real-time supply chain tracking.
 
 ## CONTRACT DETAILS  : 0xF2A142F15a26Ed3849597c4F042a742fB59Deb59
-<img width="953" alt="image" src="https://github.com/user-attachments/assets/145a0295-ca75-4091-b8e6-3d7835e87698" />
-# Fake-ProductIdentification-System
+![Screenshot 2025-05-27 005945](https://github.com/user-attachments/assets/738efa09-08ae-45d0-b228-d7b68859de8b)
+
