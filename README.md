@@ -17,7 +17,7 @@ Our vision is to create a world where consumers and businesses can easily verify
 
 ## Future Scope
 
-- **Multi-Manufacturer Support:** Allow multiple verified manufacturers to register products.
+- **Multi-Manufacturer Support:** Allow multiple verified manufacturer to register products.
 - **QR Code Integration:** Generate QR codes linked to blockchain records for easy scanning and verification.
 - **User Interface:** Develop a web/mobile front-end for seamless interaction.
 - **Batch Registration:** Enable bulk product registration for large-scale manufacturers.
