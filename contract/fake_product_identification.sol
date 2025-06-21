@@ -28,11 +28,6 @@ contract FakeProductIdentificationSystem {
         owner = msg.sender;
     }
 
-    /**
-     * @dev Register a product. Only contract owner (manufacturer) can register.
-     * @param name Name of the product.
-     * @param serialNumber Unique serial number of the product.
-     */
     function registerProduct(string memory name, string memory serialNumber) public onlyOwner {
         bytes32 productId = keccak256(abi.encodePacked(serialNumber));
         require(!products[productId].exists, "Product already registered.");
