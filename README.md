@@ -2,7 +2,7 @@
 
 ## .Project Description ##
 
-lmao
+
 
 Fake Product Identification System is a blockchain-based solution to combat counterfeit products. It allows manufacturers to register products on the blockchain and enables anyone to verify the authenticity of a product using its serial number. This system ensures transparency, immutability, and trust throughout the supply chain.
 
