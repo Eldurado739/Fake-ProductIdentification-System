@@ -1,4 +1,4 @@
-# #Fake Product Identification System#
+##Fake Product Identification System#
 
 ## Project Description ##
 
